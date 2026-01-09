@@ -50,12 +50,6 @@ Mind maps and whiteboards "work" for a two-hour brainstorm among stakeholders. T
 
 ---
 
-To give your pitch scientific weight, you can reference specific cognitive theories and industry trends that prove why "office tools" fail the creative process.
-
-The following MD sheet is organized by the "Proof" categories you need for your pitch.
-
----
-
 # Reference Sheet
 
 ### 1. The "Interface Friction" & Cognitive Load Tax

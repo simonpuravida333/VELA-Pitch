@@ -1,7 +1,3 @@
-This document synthesizes the cognitive, structural, and market-based evidence that traditional office tools (whiteboards, mind maps, and linear word processors) are fundamentally misaligned with the creative process.
-
----
-
 # The Case Against "Digital Office" Tools in Creative Development
 
 ## 1. The Structural Fallacy: "Trees vs. Rhizomes"

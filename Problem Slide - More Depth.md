@@ -1,4 +1,4 @@
-This document synthesizes the cognitive, structural, and market-based evidence that traditional office tools (whiteboards, mind maps, and linear word processors) are fundamentally misaligned with the creative process. Use this as a foundational "White Paper" or reference sheet for your investors.
+This document synthesizes the cognitive, structural, and market-based evidence that traditional office tools (whiteboards, mind maps, and linear word processors) are fundamentally misaligned with the creative process.
 
 ---
 
@@ -50,4 +50,4 @@ Mind maps and whiteboards "work" for a two-hour brainstorm among stakeholders. T
 
 ---
 
-**Would you like me to draft a "Solution" slide that uses these specific points to show how Vela’s UI/UX actually "disappears" for the writer?**
+Google Gemini 3.0 helped with assembling the points.

@@ -1,4 +1,4 @@
-# **VELA — Reference List**
+# **Articles in Favor of VELA's Design**
 
 A curated selection of research and reporting that illuminates the psychological, cultural, and technological foundations behind Vela’s vision.
 

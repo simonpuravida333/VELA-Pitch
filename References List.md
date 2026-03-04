@@ -75,6 +75,6 @@ A curated selection of research and reporting that illuminates the psychological
 ---
 
 ## **11. Gen Z: 'Going analog'**
-**Source:** *CNBC*
-**Title:** *'Going analog': Gen Z's desire to get offline is a boon for businesses*
+**Source:** *CNBC*  
+**Title:** *'Going analog': Gen Z's desire to get offline is a boon for businesses*  
 **Link:** https://www.cnbc.com/2026/03/03/going-analog-gen-z-desire-to-get-offline-small-business-boost.html

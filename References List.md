@@ -74,6 +74,10 @@ A curated selection of research and reporting that illuminates the psychological
 
 ---
 
+# Gen Z's Return to Analog
+
+---
+
 ## **11. Gen Z’s Return to Analog**  
 **Source:** *CNBC*  
 **Title:** *Tech Founder Launched a Landline‑Style Phone and Sold 120k of Them in 3 Days*  
@@ -85,3 +89,12 @@ A curated selection of research and reporting that illuminates the psychological
 **Source:** *CNBC*  
 **Title:** *'Going analog': Gen Z's desire to get offline is a boon for businesses*  
 **Link:** https://www.cnbc.com/2026/03/03/going-analog-gen-z-desire-to-get-offline-small-business-boost.html
+
+---
+
+## **13. Gen Z is Engineering an Analog Future**
+**Source:** *Fortune*  
+**Title:** *Gen Z's 5 billion analog economy*  
+**Link:** https://fortune.com/2026/04/01/gen-z-analog-economy-5-billion-market-nostalgia/
+
+

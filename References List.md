@@ -92,9 +92,9 @@ A curated selection of research and reporting that illuminates the psychological
 
 ---
 
-## **13. Gen Z is Engineering an Analog Future**
+## **13. Gen Z's 5 Billion Analog Future**
 **Source:** *Fortune*  
-**Title:** *Gen Z's 5 billion analog economy*  
+**Title:** *Gen Z is engineering an analog future — and it’s at least a $5 billion opportunity*  
 **Link:** https://fortune.com/2026/04/01/gen-z-analog-economy-5-billion-market-nostalgia/
 
 

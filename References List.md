@@ -4,6 +4,11 @@ A curated selection of research and reporting that illuminates the psychological
 
 ---
 
+# True Nature
+
+---
+
+
 ## **1. Modern Life as a Biological Mismatch**  
 **Source:** *ScienceDaily*  
 **Title:** *Modern Life Is Unnatural*  
@@ -43,6 +48,10 @@ A curated selection of research and reporting that illuminates the psychological
 **Source:** *Psychology Today*  
 **Title:** *Harmony With Self, Others, and the World as Key to Happiness*  
 **Link:** https://www.psychologytoday.com/us/blog/between-cultures/202512/harmony-with-self-others-and-the-world-as-key-to-happiness  
+
+---
+
+# Gen Z VS Modern Tech
 
 ---
 

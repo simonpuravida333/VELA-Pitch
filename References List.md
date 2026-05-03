@@ -2,9 +2,11 @@
 
 A curated selection of research and reporting that illuminates the psychological, cultural, and technological foundations behind Vela’s vision.
 
+<br>
 
 ## • True Nature •
 
+<br>
 
 ## **1. Modern Life as a Biological Mismatch**  
 **Source:** *ScienceDaily*  

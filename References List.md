@@ -46,11 +46,9 @@ A curated selection of research and reporting that illuminates the psychological
 **Title:** *Harmony With Self, Others, and the World as Key to Happiness*  
 **Link:** https://www.psychologytoday.com/us/blog/between-cultures/202512/harmony-with-self-others-and-the-world-as-key-to-happiness  
 
----
 
 ## • Gen Z VS Modern Tech •
 
----
 
 ## **7. Digital Tool Fatigue**  
 **Source:** *Forbes*  
@@ -78,7 +76,9 @@ A curated selection of research and reporting that illuminates the psychological
 **Title:** *Authenticity: The Key to Unlocking Gen Z Products*  
 **Link:** https://www.forbes.com/councils/forbestechcouncil/2024/10/07/authenticity-the-key-to-unlocking-gen-z-products/
 
+
 ## • Gen Z's Return to Analog •
+
 
 ## **11. Gen Z’s Return to Analog**  
 **Source:** *CNBC*  

@@ -48,7 +48,7 @@ A curated selection of research and reporting that illuminates the psychological
 
 ---
 
-# Gen Z VS Modern Tech
+## • Gen Z VS Modern Tech •
 
 ---
 
@@ -78,11 +78,7 @@ A curated selection of research and reporting that illuminates the psychological
 **Title:** *Authenticity: The Key to Unlocking Gen Z Products*  
 **Link:** https://www.forbes.com/councils/forbestechcouncil/2024/10/07/authenticity-the-key-to-unlocking-gen-z-products/
 
----
-
-# Gen Z's Return to Analog
-
----
+## • Gen Z's Return to Analog •
 
 ## **11. Gen Z’s Return to Analog**  
 **Source:** *CNBC*  

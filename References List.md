@@ -4,7 +4,7 @@ A curated selection of research and reporting that illuminates the psychological
 
 ---
 
-# True Nature
+## True Nature
 
 ---
 

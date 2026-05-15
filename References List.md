@@ -36,14 +36,21 @@ A curated selection of research and reporting that illuminates the psychological
 
 ---
 
-## **5. Beauty as Energy Efficiency**  
+## **5. ADHD: Intuitive Thinking & Creative Breakthroughs**  
+**Source:** *earth.com*  
+**Title:** *People with ADHD have a natural inclination for intuitive thinking and creative breakthroughs, according to a new study*  
+**Link:** https://www.earth.com/news/people-with-adhd-have-a-natural-inclination-for-intuitive-thinking-and-creative-breakthroughs-according-to-a-new-study/
+
+---
+
+## **6. Beauty as Energy Efficiency**  
 **Source:** *PsyPost*  
 **Title:** *New Neuroscience Research Reveals Surprising Biological Link Between Beauty and Brain Energy*  
 **Link:** https://www.psypost.org/new-neuroscience-research-reveals-surprising-biological-link-between-beauty-and-brain-energy/
 
 ---
 
-## **6. Harmony as a Foundation for Well‑Being**  
+## **7. Harmony as a Foundation for Well‑Being**  
 **Source:** *Psychology Today*  
 **Title:** *Harmony With Self, Others, and the World as Key to Happiness*  
 **Link:** https://www.psychologytoday.com/us/blog/between-cultures/202512/harmony-with-self-others-and-the-world-as-key-to-happiness  
@@ -54,28 +61,28 @@ A curated selection of research and reporting that illuminates the psychological
 
 <br>
 
-## **7. Digital Tool Fatigue**  
+## **1. Digital Tool Fatigue**  
 **Source:** *Forbes*  
 **Title:** *Digital Tool Fatigue Is Eroding Mental Health and Career Productivity*  
 **Link:** https://www.forbes.com/sites/bryanrobinson/2025/10/04/digital-tool-fatigue-eroding-mental-health-and-career-productivity/
 
 ---
 
-## **8. AI Fatigue**  
+## **2. AI Fatigue**  
 **Source:** *Forbes*  
 **Title:** *Why AI Fatigue Is Wearing You Down — And How to Beat It*  
 **Link:** https://www.forbes.com/sites/carolinecastrillon/2025/06/24/why-ai-fatigue-is-wearing-you-down-and-how-to-beat-it/
 
 ---
 
-## **9. The Limits of AI Creativity**  
+## **3. The Limits of AI Creativity**  
 **Source:** *PsyPost*  
 **Title:** *A Mathematical Ceiling Limits Generative AI to Amateur‑Level Creativity*  
 **Link:** https://www.psypost.org/a-mathematical-ceiling-limits-generative-ai-to-amateur-level-creativity/
 
 ---
 
-## **10. Gen Z & Authenticity**  
+## **4. Gen Z & Authenticity**  
 **Source:** *Forbes*  
 **Title:** *Authenticity: The Key to Unlocking Gen Z Products*  
 **Link:** https://www.forbes.com/councils/forbestechcouncil/2024/10/07/authenticity-the-key-to-unlocking-gen-z-products/
@@ -86,21 +93,21 @@ A curated selection of research and reporting that illuminates the psychological
 
 <br>
 
-## **11. Gen Z’s Return to Analog**  
+## **1. Gen Z’s Return to Analog**  
 **Source:** *CNBC*  
 **Title:** *Tech Founder Launched a Landline‑Style Phone and Sold 120k of Them in 3 Days*  
 **Link:** https://www.cnbc.com/2025/11/30/tech-founder-launched-a-landline-style-phone-and-sold-120k-of-them-in-3-days.html
 
 ---
 
-## **12. Gen Z: 'Going analog'**
+## **2. Gen Z: 'Going analog'**
 **Source:** *CNBC*  
 **Title:** *'Going analog': Gen Z's desire to get offline is a boon for businesses*  
 **Link:** https://www.cnbc.com/2026/03/03/going-analog-gen-z-desire-to-get-offline-small-business-boost.html
 
 ---
 
-## **13. Gen Z's 5 Billion Analog Future**
+## **3. Gen Z's 5 Billion Analog Future**
 **Source:** *Fortune*  
 **Title:** *Gen Z is engineering an analog future — and it’s at least a $5 billion opportunity*  
 **Link:** https://fortune.com/2026/04/01/gen-z-analog-economy-5-billion-market-nostalgia/

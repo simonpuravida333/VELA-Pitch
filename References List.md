@@ -55,6 +55,13 @@ A curated selection of research and reporting that illuminates the psychological
 **Title:** *Harmony With Self, Others, and the World as Key to Happiness*  
 **Link:** https://www.psychologytoday.com/us/blog/between-cultures/202512/harmony-with-self-others-and-the-world-as-key-to-happiness  
 
+---
+
+## **8. Short Video Essay to our Modern Lives and Habitat Mismatch**  
+**Source:** *"Ordinary Wild" on YouTube*
+**Title:** *Living Like a Human. An Attempt*  
+**Link:** https://www.youtube.com/watch?v=U4Nij8HZdvM
+
 <br>
 
 ## • Humans and Modern Tech •

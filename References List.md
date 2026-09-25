@@ -57,8 +57,8 @@ A curated selection of research and reporting that illuminates the psychological
 
 ---
 
-## **8. Short Video Essay to our Modern Lives and Habitat Mismatch**  
-**Source:** *"Ordinary Wild" on YouTube*
+## **8. Short Video Essay on our Modern Lives and Habitat Mismatch**  
+**Source:** *"Ordinary Wild" on YouTube* 
 **Title:** *Living Like a Human. An Attempt*  
 **Link:** https://www.youtube.com/watch?v=U4Nij8HZdvM
 

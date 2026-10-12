@@ -73,7 +73,7 @@ A curated selection of research and reporting that illuminates the psychological
 
 ## **10. Creativity & Movement**  
 **Source:** *Scientific American*  
-**Title:** *Digital Overload and the Wellness Room Boom*  
+**Title:** *Why the creative brain feeds on movement*  
 **Link:** https://www.scientificamerican.com/article/why-the-creative-brain-feeds-on-movement/  
 
 <br>

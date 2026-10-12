@@ -62,6 +62,20 @@ A curated selection of research and reporting that illuminates the psychological
 **Title:** *Living Like a Human. An Attempt*  
 **Link:** https://www.youtube.com/watch?v=U4Nij8HZdvM
 
+---
+
+## **9. People want to go away from digital tools into nature**  
+**Source:** *Psychology Today*  
+**Title:** *Digital Overload and the Wellness Room Boom*  
+**Link:** https://www.psychologytoday.com/ie/blog/consciously-creating-your-soul-life/202610/digital-overload-and-the-wellness-room-boom
+
+---
+
+## **10. Creativity & Movement**  
+**Source:** *Scientific American*  
+**Title:** *Digital Overload and the Wellness Room Boom*  
+**Link:** https://www.scientificamerican.com/article/why-the-creative-brain-feeds-on-movement/  
+
 <br>
 
 ## • Humans and Modern Tech •

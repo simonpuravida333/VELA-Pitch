@@ -64,7 +64,7 @@ A curated selection of research and reporting that illuminates the psychological
 
 ---
 
-## **9. People want to go away from digital tools into nature**  
+## **9. Wellness Rooms**  
 **Source:** *Psychology Today*  
 **Title:** *Digital Overload and the Wellness Room Boom*  
 **Link:** https://www.psychologytoday.com/ie/blog/consciously-creating-your-soul-life/202610/digital-overload-and-the-wellness-room-boom

@@ -4,13 +4,12 @@ A curated selection of research and reporting that illuminates the psychological
 
 <br>
 
-## • True Nature •
+# • True Nature •
 
 <br>
 
-## **1. Modern Life as a Biological Mismatch**  
+## *1. Modern Life Is Unnatural*  
 **Source:** *ScienceDaily*  
-**Title:** *Modern Life Is Unnatural*  
 **Link:** https://www.sciencedaily.com/releases/2025/12/251207031335.htm
 
 ---

@@ -8,9 +8,10 @@ A curated selection of research and reporting that illuminates the psychological
 
 <br>
 
-## *1. Modern Life Is Unnatural*  
-**Source:** *ScienceDaily*  
-**Link:** https://www.sciencedaily.com/releases/2025/12/251207031335.htm
+## 1. Modern Life Is Unnatural  
+## **1. Modern Life Is Unnatural**  
+## ***1. Modern Life Is Unnatural***  
+**ScienceDaily:** https://www.sciencedaily.com/releases/2025/12/251207031335.htm
 
 ---
 
